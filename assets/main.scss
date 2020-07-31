@@ -467,6 +467,7 @@ table {
       width:100%;
       border-left:1px solid white;
       border-bottom:1px solid white;
+      margin:0;
       &:hover{
         opacity: 0.7;
       }
@@ -598,7 +599,7 @@ table {
   padding: $spacing-unit 0;
   //flex: 1;
   float: left;
-  width:85%;
+  width:70%;
   &:after{
 	 right: 0;
   }
@@ -697,6 +698,9 @@ table {
       @include relative-font-size(1.125);
     }
   }
+  img{
+    margin-bottom:0.5em;
+  }
   dl{
     font-style: italic;
     border-left: 4px solid $lightgrey;
@@ -705,11 +709,12 @@ table {
       font-size: 0.5em;
       text-transform: uppercase;
       font-weight: bold;
-      line-height: 0.3;
+      line-height: 1;
     }
     dd{
       margin-bottom:1em;
       font-size: 0.8em;
+      line-height: 1.2;
     }
   }
 }

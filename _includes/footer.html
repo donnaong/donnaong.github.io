@@ -1,0 +1,72 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+   <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>© Donna Ong 2002 - 2020</p>
+      </div>
+    </div>-->
+
+
+
+   <div class="right">
+      <ul>
+        <li>
+          {%- if site.email -%}
+            <a class="u-email" href="mailto:{{ site.email }}">&#9993; {{ site.email }}</a>
+          {%- endif -%}
+        </li>
+          <a href="https://www.instagram.com/donna_at_work/">&#64; donna_at_work</a>
+        <li>
+      </ul>
+
+      <!--<h2 class="footer-heading">{{ site.title | escape }}</h2>-->
+      
+
+
+    </div>
+
+    <div class="left">
+      <ul>
+        <li>
+          <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        </li>
+        <li>
+          © 2002 - 2020
+        </li>
+      </ul>
+    </div>
+
+
+
+
+
+
+
+
+  </div>
+
+</footer>

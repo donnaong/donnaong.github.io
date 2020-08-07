@@ -2,27 +2,27 @@
 layout: post
 title:  "The Sixth Day"
 date:   2008-04-01
-thumbnail: "/assets/images/The-Sixth-Day-2008.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Sixth-Day-2008.jpg"
 ---
 
-![My image Name](/assets/images/The-Sixth-Day_01.jpg)
-![My image Name](/assets/images/The-Sixth-Day_02.jpg)
-![My image Name](/assets/images/The-Sixth-Day_03.jpg)
-![My image Name](/assets/images/The-Sixth-Day_04.jpg)
-![My image Name](/assets/images/The-Sixth-Day_05.jpg)
-![My image Name](/assets/images/The-Sixth-Day_06.jpg)
-![My image Name](/assets/images/The-Sixth-Day_07.jpg)
-![My image Name](/assets/images/The-Sixth-Day_08.jpg)
-![My image Name](/assets/images/The-Sixth-Day_09.jpg)
-![My image Name](/assets/images/The-Sixth-Day_10.jpg)
-![My image Name](/assets/images/The-Sixth-Day_11.jpg)
-![My image Name](/assets/images/The-Sixth-Day_12.jpg)
-![My image Name](/assets/images/The-Sixth-Day_13.jpg)
-![My image Name](/assets/images/The-Sixth-Day_14.jpg)
-![My image Name](/assets/images/The-Sixth-Day_15.jpg)
-![My image Name](/assets/images/The-Sixth-Day_16.jpg)
-![My image Name](/assets/images/The-Sixth-Day_17.jpg)
-![My image Name](/assets/images/The-Sixth-Day_18.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_01.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_02.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_03.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_04.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_05.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_06.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_07.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_08.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_09.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_10.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_11.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_12.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_13.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_14.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_15.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_16.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_17.jpg)
+![My image Name](/assets/images/artwork/The-Sixth-Day_18.jpg)
 
 # The Sixth Day | 2008
 

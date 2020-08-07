@@ -2,14 +2,14 @@
 layout: post
 title:  "And We Dreamt We Were Birds"
 date:   2012-02-01
-thumbnail: "/assets/images/And-We-Dreamt-We-Were-Birds-2011.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/And-We-Dreamt-We-Were-Birds-2011.jpg"
 ---
 
 
-![My image Name](/assets/images/And-We-Dreamt-We-Were-Birds_01.jpg)
-![My image Name](/assets/images/And-We-Dreamt-We-Were-Birds_02.jpg)
-![My image Name](/assets/images/And-We-Dreamt-We-Were-Birds_03.jpg)
-![My image Name](/assets/images/And-We-Dreamt-We-Were-Birds_04.jpg)
+![My image Name](/assets/images/artwork/And-We-Dreamt-We-Were-Birds_01.jpg)
+![My image Name](/assets/images/artwork/And-We-Dreamt-We-Were-Birds_02.jpg)
+![My image Name](/assets/images/artwork/And-We-Dreamt-We-Were-Birds_03.jpg)
+![My image Name](/assets/images/artwork/And-We-Dreamt-We-Were-Birds_04.jpg)
 
 Size
 : 12 x 15 x 4m

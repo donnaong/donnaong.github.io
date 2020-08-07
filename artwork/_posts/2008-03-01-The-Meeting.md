@@ -2,16 +2,16 @@
 layout: post
 title:  "The Meeting"
 date:   2008-03-01
-thumbnail: "/assets/images/The-Meeting-2008.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Meeting-2008.jpg"
 ---
 
-![My image Name](/assets/images/The-Meeting_01.jpg)
-![My image Name](/assets/images/The-Meeting_02.jpg)
-![My image Name](/assets/images/The-Meeting_03.jpg)
-![My image Name](/assets/images/The-Meeting_04.jpg)
-![My image Name](/assets/images/The-Meeting_05.jpg)
-![My image Name](/assets/images/The-Meeting_06.jpg)
-![My image Name](/assets/images/The-Meeting_07.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_01.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_02.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_03.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_04.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_05.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_06.jpg)
+![My image Name](/assets/images/artwork/The-Meeting_07.jpg)
 
 # The Meeting | 2008
 

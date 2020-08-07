@@ -2,15 +2,15 @@
 layout: post
 title:  "The Great Escape"
 date:   2007-01-01
-thumbnail: "/assets/images/The-Great-Escape-2007.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Great-Escape-2007.jpg"
 ---
 
-![My image Name](/assets/images/The-Great-Escape_01.jpg)
-![My image Name](/assets/images/The-Great-Escape_02.jpg)
-![My image Name](/assets/images/The-Great-Escape_03.jpg)
-![My image Name](/assets/images/The-Great-Escape_04.jpg)
-![My image Name](/assets/images/The-Great-Escape_05.jpg)
-![My image Name](/assets/images/The-Great-Escape_06s.jpg)
+![My image Name](/assets/images/artwork/The-Great-Escape_01.jpg)
+![My image Name](/assets/images/artwork/The-Great-Escape_02.jpg)
+![My image Name](/assets/images/artwork/The-Great-Escape_03.jpg)
+![My image Name](/assets/images/artwork/The-Great-Escape_04.jpg)
+![My image Name](/assets/images/artwork/The-Great-Escape_05.jpg)
+![My image Name](/assets/images/artwork/The-Great-Escape_06s.jpg)
 
 # The Great Escape | 2007
 

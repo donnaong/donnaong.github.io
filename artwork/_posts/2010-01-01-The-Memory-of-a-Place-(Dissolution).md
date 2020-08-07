@@ -2,10 +2,10 @@
 layout: post
 title:  "The Memory of a Place (Dissolution)"
 date:   2010-01-01
-thumbnail: "/assets/images/The-Memory-of-a-Place-(Dissolution)-2010.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Memory-of-a-Place-(Dissolution)-2010.jpg"
 ---
 
-![My image Name](/assets/images/The-Memory-of-a-Place_Dissolution.jpg)
+![My image Name](/assets/images/artwork/The-Memory-of-a-Place_Dissolution.jpg)
 
 # The Memory of a Place (Dissolution), 2010
 

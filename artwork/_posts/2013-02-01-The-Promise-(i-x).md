@@ -2,19 +2,19 @@
 layout: post
 title:  "The Promise (i-x)"
 date:   2013-02-01
-thumbnail: "/assets/images/The-Promise-(i-x)-2013.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Promise-(i-x)-2013.jpg"
 ---
 
-![My image Name](/assets/images/The-Promise_01.jpg)
-![My image Name](/assets/images/The-Promise_02.jpg)
-![My image Name](/assets/images/The-Promise_03.jpg)
-![My image Name](/assets/images/The-Promise_04.jpg)
-![My image Name](/assets/images/The-Promise_05.jpg)
-![My image Name](/assets/images/The-Promise_06.jpg)
-![My image Name](/assets/images/The-Promise_07.jpg)
-![My image Name](/assets/images/The-Promise_08.jpg)
-![My image Name](/assets/images/The-Promise_09.jpg)
-![My image Name](/assets/images/The-Promise_10.jpg)
+![My image Name](/assets/images/artwork/The-Promise_01.jpg)
+![My image Name](/assets/images/artwork/The-Promise_02.jpg)
+![My image Name](/assets/images/artwork/The-Promise_03.jpg)
+![My image Name](/assets/images/artwork/The-Promise_04.jpg)
+![My image Name](/assets/images/artwork/The-Promise_05.jpg)
+![My image Name](/assets/images/artwork/The-Promise_06.jpg)
+![My image Name](/assets/images/artwork/The-Promise_07.jpg)
+![My image Name](/assets/images/artwork/The-Promise_08.jpg)
+![My image Name](/assets/images/artwork/The-Promise_09.jpg)
+![My image Name](/assets/images/artwork/The-Promise_10.jpg)
 
 # The Promise (i-x) | 2013
 

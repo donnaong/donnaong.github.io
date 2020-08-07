@@ -2,10 +2,10 @@
 layout: post
 title:  "Etymologies (II)"
 date:   2011-02-01
-thumbnail: "/assets/images/Etymologies-(II)-2011.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Etymologies-(II)-2011.jpg"
 ---
 
-![My image Name](/assets/images/Etymologies_II.jpg)
+![My image Name](/assets/images/artwork/Etymologies_II.jpg)
 
 # Etymologies (II) | 2011
 

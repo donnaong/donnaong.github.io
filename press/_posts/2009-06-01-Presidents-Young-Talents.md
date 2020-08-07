@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Presidents Young Talents"
+date:   2009-05-01
+thumbnail: "/assets/images/press/thumbnail/2009_Presidents-Young-Talents.jpg"
+---
+
+![My image Name](/assets/images/press/2009_President's-Young-Talents-1.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-2.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-3.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-4.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-5.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-6.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-7.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-8.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-9.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-10.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-11.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-12.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-13.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-14.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-15.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-16.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-17.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-18.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-19.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-20.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-21.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-22.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-23.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-24.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-25.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-26.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-27.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-28.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-29.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-30.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-31.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-32.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-33.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-34.jpg)
+![My image Name](/assets/images/press/2009_President's-Young-Talents-35.jpg)

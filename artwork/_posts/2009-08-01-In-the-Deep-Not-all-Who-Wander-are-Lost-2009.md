@@ -2,21 +2,21 @@
 layout: post
 title:  "In the Deep, Not all Who Wander are Lost"
 date:   2009-08-01
-thumbnail: "/assets/images/In-the-Deep-Not-all-Who-Wander-are-Lost-2009.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/In-the-Deep-Not-all-Who-Wander-are-Lost-2009.jpg"
 ---
 
-![My image Name](/assets/images/In-the-Deep-i_01.jpg)
-![My image Name](/assets/images/In-the-Deep-i_02.jpg)
-![My image Name](/assets/images/In-the-Deep-ii_01.jpg)
-![My image Name](/assets/images/In-the-Deep-iii_01.jpg)
-![My image Name](/assets/images/In-the-Deep-iv_01.jpg)
-![My image Name](/assets/images/In-the-Deep-ix_01.jpg)
-![My image Name](/assets/images/In-the-Deep-v_01.jpg)
-![My image Name](/assets/images/In-the-Deep-vi_01.jpg)
-![My image Name](/assets/images/In-the-Deep-vii_01.jpg)
-![My image Name](/assets/images/In-the-Deep-viii_01.jpg)
-![My image Name](/assets/images/In-the-Deep-x_01.jpg)
-![My image Name](/assets/images/In-the-Deep-x_02.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-i_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-i_02.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-ii_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-iii_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-iv_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-ix_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-v_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-vi_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-vii_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-viii_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-x_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Deep-x_02.jpg)
 
 # In the Deep, Not all Who Wander are Lost | 2009
 

@@ -2,25 +2,25 @@
 layout: post
 title:  "Landscape Portraits (I-IV)"
 date:   2009-03-01
-thumbnail: "/assets/images/Landscape-Portraits-(I-IV)-2009.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Landscape-Portraits-(I-IV)-2009.jpg"
 ---
 
-![My image Name](/assets/images/Landscape-Portraits-I-IV_01.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_02.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_03.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_04.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_05.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_06.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_07.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_08.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_09.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_010.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_011.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_012.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_013.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_014.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_015.jpg)
-![My image Name](/assets/images/Landscape-Portraits-I-IV_016.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_01.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_02.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_03.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_04.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_05.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_06.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_07.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_08.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_09.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_010.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_011.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_012.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_013.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_014.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_015.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-I-IV_016.jpg)
 
 # Landscape Portraits (I-IV) | 2009
 

@@ -2,12 +2,12 @@
 layout: post
 title:  "Altarpiece"
 date:   2002-02-01
-thumbnail: "/assets/images/Altarpiece-2002.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Altarpiece-2002.jpg"
 ---
 
-![My image Name](/assets/images/Altarpiece_01.jpg)
-![My image Name](/assets/images/Altarpiece_02.jpg)
-![My image Name](/assets/images/Altarpiece_03.jpg)
+![My image Name](/assets/images/artwork/Altarpiece_01.jpg)
+![My image Name](/assets/images/artwork/Altarpiece_02.jpg)
+![My image Name](/assets/images/artwork/Altarpiece_03.jpg)
 
 # Altarpiece | 2002
 

@@ -2,19 +2,19 @@
 layout: post
 title:  "In the Secret, In the Quiet Place"
 date:   2008-01-01
-thumbnail: "/assets/images/In-the-Secret-In-the-Quiet-Place-2008.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/In-the-Secret-In-the-Quiet-Place-2008.jpg"
 ---
 
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_01.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_02.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_03.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_04.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_05.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_06.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_07.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_08.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_09.jpg)
-![My image Name](/assets/images/In-the-Secret-In-the-Quiet_10.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_01.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_02.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_03.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_04.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_05.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_06.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_07.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_08.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_09.jpg)
+![My image Name](/assets/images/artwork/In-the-Secret-In-the-Quiet_10.jpg)
 
 # In the Secret, In the Quiet Place | 2008
 

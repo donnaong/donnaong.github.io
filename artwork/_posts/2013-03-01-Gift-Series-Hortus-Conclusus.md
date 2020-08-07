@@ -2,12 +2,12 @@
 layout: post
 title:  "Gift Series: Hortus Conclusus"
 date:   2013-03-01
-thumbnail: "/assets/images/Gift-Series-Hortus-Conclusus-2013.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Gift-Series-Hortus-Conclusus-2013.jpg"
 ---
 
-![My image Name](/assets/images/Gift-Series-Hortus-Conclusus_01.jpg)
-![My image Name](/assets/images/Gift-Series-Hortus-Conclusus_02.jpg)
-![My image Name](/assets/images/Gift-Series-Hortus-Conclusus_03.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Hortus-Conclusus_01.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Hortus-Conclusus_02.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Hortus-Conclusus_03.jpg)
 
 # Gift Series: Hortus Conclusus: Gift #19 | 2013
 

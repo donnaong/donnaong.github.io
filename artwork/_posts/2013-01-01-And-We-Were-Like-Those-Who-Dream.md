@@ -2,26 +2,26 @@
 layout: post
 title:  "And We Were Like Those Who Dream"
 date:   2013-01-01
-thumbnail: "/assets/images/And-We-Were-Like-Those-Who-Dream-2013.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/And-We-Were-Like-Those-Who-Dream-2013.jpg"
 ---
 
 
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-1.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-2.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-3.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-4.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-5.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-6.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-7.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-8.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-9.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-10.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-11.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-12.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-13.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-14.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-15.jpg)
-![My image Name](/assets/images/And-We-Were-Like-Those-Who-Dreamed-16.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-1.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-2.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-3.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-4.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-5.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-6.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-7.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-8.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-9.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-10.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-11.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-12.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-13.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-14.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-15.jpg)
+![My image Name](/assets/images/artwork/And-We-Were-Like-Those-Who-Dreamed-16.jpg)
 
 # And We Were Like Those Who Dream | 2013
 

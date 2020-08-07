@@ -2,17 +2,17 @@
 layout: post
 title:  "Project: Eden "
 date:   2007-02-01
-thumbnail: "/assets/images/Project-Eden-2007.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Project-Eden-2007.jpg"
 ---
 
-![My image Name](/assets/images/Project-Eden_01.jpg)
-![My image Name](/assets/images/Project-Eden_02.jpg)
-![My image Name](/assets/images/Project-Eden_03.jpg)
-![My image Name](/assets/images/Project-Eden_04.jpg)
-![My image Name](/assets/images/Project-Eden_05.jpg)
-![My image Name](/assets/images/Project-Eden_06.jpg)
-![My image Name](/assets/images/Project-Eden_07.jpg)
-![My image Name](/assets/images/Project-Eden_08.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_01.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_02.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_03.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_04.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_05.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_06.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_07.jpg)
+![My image Name](/assets/images/artwork/Project-Eden_08.jpg)
 
 # Project: Eden | 2007
 

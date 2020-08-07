@@ -2,17 +2,17 @@
 layout: post
 title:  "Secret, Interiors"
 date:   2005-02-01
-thumbnail: "/assets/images/Secret-Interiors-2005.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Secret-Interiors-2005.jpg"
 ---
 
-![My image Name](/assets/images/secret-interiors_01.jpg)
-![My image Name](/assets/images/secret-interiors_02.jpg)
-![My image Name](/assets/images/secret-interiors_03.jpg)
-![My image Name](/assets/images/secret-interiors_04.jpg)
-![My image Name](/assets/images/secret-interiors_05.jpg)
-![My image Name](/assets/images/secret-interiors_06.jpg)
-![My image Name](/assets/images/secret-interiors_07.jpg)
-![My image Name](/assets/images/secret-interiors_08.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_01.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_02.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_03.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_04.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_05.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_06.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_07.jpg)
+![My image Name](/assets/images/artwork/secret-interiors_08.jpg)
 
 # Secret, Interiors | 2005
 

@@ -2,14 +2,14 @@
 layout: post
 title:  "Cocoon: Garden of Waiting Virgins"
 date:   2012-01-01
-thumbnail: "/assets/images/Cocoon-Garden-of-Waiting-Virgins-2012.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Cocoon-Garden-of-Waiting-Virgins-2012.jpg"
 ---
 
-![My image Name](/assets/images/Cocoon-Garden-of-Waiting-Virgins_01.jpg)
-![My image Name](/assets/images/Cocoon-Garden-of-Waiting-Virgins_02.jpg)
-![My image Name](/assets/images/Cocoon-Garden-of-Waiting-Virgins_03.jpg)
-![My image Name](/assets/images/Cocoon-Garden-of-Waiting-Virgins_04.jpg)
-![My image Name](/assets/images/Cocoon-Garden-of-Waiting-Virgins_05.jpg)
+![My image Name](/assets/images/artwork/Cocoon-Garden-of-Waiting-Virgins_01.jpg)
+![My image Name](/assets/images/artwork/Cocoon-Garden-of-Waiting-Virgins_02.jpg)
+![My image Name](/assets/images/artwork/Cocoon-Garden-of-Waiting-Virgins_03.jpg)
+![My image Name](/assets/images/artwork/Cocoon-Garden-of-Waiting-Virgins_04.jpg)
+![My image Name](/assets/images/artwork/Cocoon-Garden-of-Waiting-Virgins_05.jpg)
 
 # Cocoon: Garden of Waiting Virgins | 2012
 

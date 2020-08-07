@@ -2,18 +2,18 @@
 layout: post
 title:  "Project: Waterfall "
 date:   2005-01-01
-thumbnail: "/assets/images/Project-Waterfall-2005.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Project-Waterfall-2005.jpg"
 ---
 
-![My image Name](/assets/images/Project-Waterfall_01.jpg)
-![My image Name](/assets/images/Project-Waterfall_02.jpg)
-![My image Name](/assets/images/Project-Waterfall_03.jpg)
-![My image Name](/assets/images/Project-Waterfall_04.jpg)
-![My image Name](/assets/images/Project-Waterfall_05.jpg)
-![My image Name](/assets/images/Project-Waterfall_06.jpg)
-![My image Name](/assets/images/Project-Waterfall_07.jpg)
-![My image Name](/assets/images/Project-Waterfall_08.jpg)
-![My image Name](/assets/images/Project-Waterfall_09.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_01.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_02.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_03.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_04.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_05.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_06.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_07.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_08.jpg)
+![My image Name](/assets/images/artwork/Project-Waterfall_09.jpg)
 
 
 # Project: Waterfall | 2005

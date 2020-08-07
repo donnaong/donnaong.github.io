@@ -2,12 +2,12 @@
 layout: post
 title:  "In a Beautiful Place Far Away"
 date:   2006-01-01
-thumbnail: "/assets/images/In-a-Beautiful-Place-Far-Away-2006.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/In-a-Beautiful-Place-Far-Away-2006.jpg"
 ---
 
-![My image Name](/assets/images/In-A-Beautiful-Place-Far-Away_01.jpg)
-![My image Name](/assets/images/In-A-Beautiful-Place-Far-Away_02.jpg)
-![My image Name](/assets/images/In-A-Beautiful-Place-Far-Away_03.jpg)
+![My image Name](/assets/images/artwork/In-A-Beautiful-Place-Far-Away_01.jpg)
+![My image Name](/assets/images/artwork/In-A-Beautiful-Place-Far-Away_02.jpg)
+![My image Name](/assets/images/artwork/In-A-Beautiful-Place-Far-Away_03.jpg)
 
 # In a Beautiful Place Far Away | 2006
 

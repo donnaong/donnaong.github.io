@@ -2,17 +2,17 @@
 layout: post
 title:  "Palace of Dreams "
 date:   2004-01-01
-thumbnail: "/assets/images/Palace-of-Dreams-2004.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Palace-of-Dreams-2004.jpg"
 ---
 
-![My image Name](/assets/images/Palace-of-Dreams_01.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_02.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_03.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_04.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_05.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_06.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_07.jpg)
-![My image Name](/assets/images/Palace-of-Dreams_08.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_01.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_02.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_03.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_04.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_05.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_06.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_07.jpg)
+![My image Name](/assets/images/artwork/Palace-of-Dreams_08.jpg)
 
 
 # Palace of Dreams | 2004

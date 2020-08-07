@@ -2,15 +2,15 @@
 layout: post
 title:  "Crystal City"
 date:   2010-02-01
-thumbnail: "/assets/images/Crystal-City-A-City-Dreams-of-a-City-2010.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Crystal-City-A-City-Dreams-of-a-City-2010.jpg"
 ---
 
-![My image Name](/assets/images/A-City-Dreams-of-a-City-I_01.jpg)
-![My image Name](/assets/images/A-City-Dreams-of-a-City-I_03.jpg)
-![My image Name](/assets/images/A-City-Dreams-of-a-City-II_01.jpg)
-![My image Name](/assets/images/A-City-Dreams-of-a-City-II_02.jpg)
-![My image Name](/assets/images/A-City-Dreams-of-a-City-III_01.jpg)
-![My image Name](/assets/images/A-City-Dreams-of-a-City-III_02.jpg)
+![My image Name](/assets/images/artwork/A-City-Dreams-of-a-City-I_01.jpg)
+![My image Name](/assets/images/artwork/A-City-Dreams-of-a-City-I_03.jpg)
+![My image Name](/assets/images/artwork/A-City-Dreams-of-a-City-II_01.jpg)
+![My image Name](/assets/images/artwork/A-City-Dreams-of-a-City-II_02.jpg)
+![My image Name](/assets/images/artwork/A-City-Dreams-of-a-City-III_01.jpg)
+![My image Name](/assets/images/artwork/A-City-Dreams-of-a-City-III_02.jpg)
 
 # Crystal City | 2009
 

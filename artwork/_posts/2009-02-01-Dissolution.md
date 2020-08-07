@@ -2,15 +2,15 @@
 layout: post
 title:  "Dissolution"
 date:   2009-02-01
-thumbnail: "/assets/images/Dissolution-2009.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Dissolution-2009.jpg"
 ---
 
-![My image Name](/assets/images/Dissolution_01.jpg)
-![My image Name](/assets/images/Dissolution_02.jpg)
-![My image Name](/assets/images/Dissolution_03.jpg)
-![My image Name](/assets/images/Dissolution_04.jpg)
-![My image Name](/assets/images/Dissolution_05.jpg)
-![My image Name](/assets/images/Dissolution_06.jpg)
+![My image Name](/assets/images/artwork/Dissolution_01.jpg)
+![My image Name](/assets/images/artwork/Dissolution_02.jpg)
+![My image Name](/assets/images/artwork/Dissolution_03.jpg)
+![My image Name](/assets/images/artwork/Dissolution_04.jpg)
+![My image Name](/assets/images/artwork/Dissolution_05.jpg)
+![My image Name](/assets/images/artwork/Dissolution_06.jpg)
 
 # Dissolution, 2009
 

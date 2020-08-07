@@ -2,14 +2,14 @@
 layout: post
 title:  "Etymologies (I)"
 date:   2005-03-01
-thumbnail: "/assets/images/Etymologies-(I)-2005.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Etymologies-(I)-2005.jpg"
 ---
 
-![My image Name](/assets/images/Etymologies-I_01.jpg)
-![My image Name](/assets/images/Etymologies-I_02.jpg)
-![My image Name](/assets/images/Etymologies-I_03.jpg)
-![My image Name](/assets/images/Etymologies-I_04.jpg)
-![My image Name](/assets/images/Etymologies-I_05.jpg)
+![My image Name](/assets/images/artwork/Etymologies-I_01.jpg)
+![My image Name](/assets/images/artwork/Etymologies-I_02.jpg)
+![My image Name](/assets/images/artwork/Etymologies-I_03.jpg)
+![My image Name](/assets/images/artwork/Etymologies-I_04.jpg)
+![My image Name](/assets/images/artwork/Etymologies-I_05.jpg)
 
 # Etymologies (I) | 2005
 

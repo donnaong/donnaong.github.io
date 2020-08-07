@@ -2,17 +2,17 @@
 layout: post
 title:  "Crystal City"
 date:   2009-07-01
-thumbnail: "/assets/images/Crystal-City-2009.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Crystal-City-2009.jpg"
 ---
 
-![My image Name](/assets/images/Crystal-City_01.jpg)
-![My image Name](/assets/images/Crystal-City_02.jpg)
-![My image Name](/assets/images/Crystal-City_03.jpg)
-![My image Name](/assets/images/Crystal-City_04.jpg)
-![My image Name](/assets/images/Crystal-City_05.jpg)
-![My image Name](/assets/images/Crystal-City_06.jpg)
-![My image Name](/assets/images/Crystal-City_07.jpg)
-![My image Name](/assets/images/Crystal-City_08.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_01.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_02.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_03.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_04.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_05.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_06.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_07.jpg)
+![My image Name](/assets/images/artwork/Crystal-City_08.jpg)
 
 # Crystal City | 2009
 

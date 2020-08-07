@@ -2,14 +2,14 @@
 layout: post
 title:  "Exercises in Landscape"
 date:   2011-04-01
-thumbnail: "/assets/images/Exercises-in-Landscape-2011.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Exercises-in-Landscape-2011.jpg"
 ---
 
-![My image Name](/assets/images/Exercises-in-Landscape_i.jpg)
-![My image Name](/assets/images/Exercises-in-Landscape_ii.jpg)
-![My image Name](/assets/images/Exercises-in-Landscape_vi.jpg)
-![My image Name](/assets/images/Exercises-in-Landscape_vi1.jpg)
-![My image Name](/assets/images/Exercises-in-Landscape_i-x.jpg)
+![My image Name](/assets/images/artwork/Exercises-in-Landscape_i.jpg)
+![My image Name](/assets/images/artwork/Exercises-in-Landscape_ii.jpg)
+![My image Name](/assets/images/artwork/Exercises-in-Landscape_vi.jpg)
+![My image Name](/assets/images/artwork/Exercises-in-Landscape_vi1.jpg)
+![My image Name](/assets/images/artwork/Exercises-in-Landscape_i-x.jpg)
 
 # Exercises in Landscape | 2011
 

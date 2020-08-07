@@ -2,19 +2,19 @@
 layout: post
 title:  "Secret, interiors: chrysalis (20)"
 date:   2006-04-01
-thumbnail: "/assets/images/Secret-interiors-chrysalis-(20)-2006.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Secret-interiors-chrysalis-(20)-2006.jpg"
 ---
 
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_01.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_02.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_03.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_04.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_05.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_06.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_07.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_08.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_09.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-20_10.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_01.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_02.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_03.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_04.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_05.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_06.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_07.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_08.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_09.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-20_10.jpg)
 
 # Secret, interiors: chrysalis (20) | 2006
 

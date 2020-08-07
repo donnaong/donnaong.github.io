@@ -2,14 +2,14 @@
 layout: post
 title:  "Lost and Found"
 date:   2009-06-01
-thumbnail: "/assets/images/Lost-and-Found-2009.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Lost-and-Found-2009.jpg"
 ---
 
-![My image Name](/assets/images/Lost-and-Found_01.jpg)
-![My image Name](/assets/images/Lost-and-Found_02.jpg)
-![My image Name](/assets/images/Lost-and-Found_03.jpg)
-![My image Name](/assets/images/Lost-and-Found_04.jpg)
-![My image Name](/assets/images/Lost-and-Found_05.jpg)
+![My image Name](/assets/images/artwork/Lost-and-Found_01.jpg)
+![My image Name](/assets/images/artwork/Lost-and-Found_02.jpg)
+![My image Name](/assets/images/artwork/Lost-and-Found_03.jpg)
+![My image Name](/assets/images/artwork/Lost-and-Found_04.jpg)
+![My image Name](/assets/images/artwork/Lost-and-Found_05.jpg)
 
 # Lost and Found | 2009
 

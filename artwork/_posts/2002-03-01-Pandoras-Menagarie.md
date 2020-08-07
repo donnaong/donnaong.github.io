@@ -2,11 +2,11 @@
 layout: post
 title:  "Pandora’s Menagarie"
 date:   2002-03-01
-thumbnail: "/assets/images/Pandoras-Menagarie-2002.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Pandoras-Menagarie-2002.jpg"
 ---
 
-![My image Name](/assets/images/Pandoras-Menagarie_01.jpg)
-![My image Name](/assets/images/Pandoras-Menagarie_02.jpg)
+![My image Name](/assets/images/artwork/Pandoras-Menagarie_01.jpg)
+![My image Name](/assets/images/artwork/Pandoras-Menagarie_02.jpg)
 
 # Pandora’s Menagarie | 2002
 

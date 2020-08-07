@@ -2,16 +2,16 @@
 layout: post
 title:  "Gift Series: Pluvia Silva"
 date:   2013-04-01
-thumbnail: "/assets/images/Gift-Series-Pluvia-Silva-2013.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Gift-Series-Pluvia-Silva-2013.jpg"
 ---
 
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_01.jpg)
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_02.jpg)
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_03.jpg)
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_04.jpg)
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_05.jpg)
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_06.jpg)
-![My image Name](/assets/images/Gift-Series-Pluvia-Silva_07.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_01.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_02.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_03.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_04.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_05.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_06.jpg)
+![My image Name](/assets/images/artwork/Gift-Series-Pluvia-Silva_07.jpg)
 
 # Gift Series: Pluvia Silva (Gift #67: A Dream of Home) | 2013
 

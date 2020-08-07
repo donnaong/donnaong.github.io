@@ -2,19 +2,19 @@
 layout: post
 title:  "Asleep A Room Awakens"
 date:   2009-01-01
-thumbnail: "/assets/images/Asleep-A-Room-Awakens-2004.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Asleep-A-Room-Awakens-2004.jpg"
 ---
 
-![My image Name](/assets/images/Asleep-A-Room-Awakens-01.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-02.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-03.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-04.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-05.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-06.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-07.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-08.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-09.jpg)
-![My image Name](/assets/images/Asleep-A-Room-Awakens-10.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-01.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-02.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-03.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-04.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-05.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-06.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-07.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-08.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-09.jpg)
+![My image Name](/assets/images/artwork/Asleep-A-Room-Awakens-10.jpg)
 
 # Asleep A Room Awakens, 2009</h1>
 

@@ -2,12 +2,12 @@
 layout: post
 title:  "Landscape Portraits (In a Beautiful Place Closeby)"
 date:   2009-05-01
-thumbnail: "/assets/images/Landscape-Portraits-(In-a-Beautiful-Place-Nearby)-2009.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Landscape-Portraits-(In-a-Beautiful-Place-Nearby)-2009.jpg"
 ---
 
-![My image Name](/assets/images/Landscape-Portraits-In-a-Beautiful-City-Closeby_01.jpg)
-![My image Name](/assets/images/Landscape-Portraits-In-a-Beautiful-City-Closeby_02.jpg)
-![My image Name](/assets/images/Landscape-Portraits-In-a-Beautiful-City-Closeby_03.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-In-a-Beautiful-City-Closeby_01.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-In-a-Beautiful-City-Closeby_02.jpg)
+![My image Name](/assets/images/artwork/Landscape-Portraits-In-a-Beautiful-City-Closeby_03.jpg)
 
 # Landscape Portraits (In a Beautiful Place CLoseby), 2009
 

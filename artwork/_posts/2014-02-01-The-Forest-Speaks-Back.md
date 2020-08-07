@@ -2,15 +2,15 @@
 layout: post
 title:  "The Forest Speaks Back"
 date:   2014-02-01
-thumbnail: "/assets/images/The-Forest-Speaks-Back-2014.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Forest-Speaks-Back-2014.jpg"
 ---
 
-![My image Name](/assets/images/The-Forest-Speaks-Back_01.jpg)
-![My image Name](/assets/images/The-Forest-Speaks-Back_02.jpg)
-![My image Name](/assets/images/The-Forest-Speaks-Back_03.jpg)
-![My image Name](/assets/images/The-Forest-Speaks-Back_04.jpg)
-![My image Name](/assets/images/The-Forest-Speaks-Back_05.jpg)
-![My image Name](/assets/images/The-Forest-Speaks-Back_06.jpg)
+![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_01.jpg)
+![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_02.jpg)
+![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_03.jpg)
+![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_04.jpg)
+![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_05.jpg)
+![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_06.jpg)
 
 # The Forest Speaks Back | 2014
 

@@ -2,19 +2,19 @@
 layout: post
 title:  "In Xanadu Did Kubla Khan"
 date:   2011-03-01
-thumbnail: "/assets/images/In-Xanadu-Did-Kubla-Khan-2011.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/In-Xanadu-Did-Kubla-Khan-2011.jpg"
 ---
 
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_01.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_02.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_03.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_04.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_05.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_06.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_07.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_08.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_09.jpg)
-![My image Name](/assets/images/In-Xanadu-Did-Kubla-Khan_10.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_01.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_02.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_03.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_04.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_05.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_06.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_07.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_08.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_09.jpg)
+![My image Name](/assets/images/artwork/In-Xanadu-Did-Kubla-Khan_10.jpg)
 
 # In Xanadu Did Kubla Khan | 2011
 

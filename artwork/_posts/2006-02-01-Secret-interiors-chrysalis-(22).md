@@ -2,14 +2,14 @@
 layout: post
 title:  "Secret, interiors: chrysalis (22)"
 date:   2006-02-01
-thumbnail: "/assets/images/Secret-interiors-chrysalis-(22)-2006.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/Secret-interiors-chrysalis-(22)-2006.jpg"
 ---
 
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-22_01.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-22_02.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-22_03.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-22_04.jpg)
-![My image Name](/assets/images/Secret-Interiors-Chrysalis-22_05.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-22_01.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-22_02.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-22_03.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-22_04.jpg)
+![My image Name](/assets/images/artwork/Secret-Interiors-Chrysalis-22_05.jpg)
 
 # Secret, interiors: chrysalis (22) | 2006
 

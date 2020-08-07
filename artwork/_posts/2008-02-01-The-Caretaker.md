@@ -2,14 +2,14 @@
 layout: post
 title:  "The Caretaker"
 date:   2008-02-01
-thumbnail: "/assets/images/The-Caretaker-2008.jpg"
+thumbnail: "/assets/images/artwork/thumbnail/The-Caretaker-2008.jpg"
 ---
 
-![My image Name](/assets/images/The-Caretaker_01.jpg)
-![My image Name](/assets/images/The-Caretaker_02.jpg)
-![My image Name](/assets/images/The-Caretaker_03.jpg)
-![My image Name](/assets/images/The-Caretaker_04.jpg)
-![My image Name](/assets/images/The-Caretaker_05.jpg)
+![My image Name](/assets/images/artwork/The-Caretaker_01.jpg)
+![My image Name](/assets/images/artwork/The-Caretaker_02.jpg)
+![My image Name](/assets/images/artwork/The-Caretaker_03.jpg)
+![My image Name](/assets/images/artwork/The-Caretaker_04.jpg)
+![My image Name](/assets/images/artwork/The-Caretaker_05.jpg)
 
 # The Caretaker | 2008
 

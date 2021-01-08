@@ -23,6 +23,8 @@ Medium
 
 Exhibition
 : Museum Van Loon (5 Oct 5 – 20 Jan 2013), “Suspended Histories”, Amsterdam, Holland 
+
+<!--excerpt_separator-->
 		
 The work is a series of ornamental boxes of various sizes and shapes. Open the boxes, and nestled within their wooden cavities lie wondrous miniature worlds – landscapes of palm trees and dark figures, overgrown gardens with “exotic” animals peeking through fronds, trees with strange birds perched amongst riotous coloured fruits and flowers… The scenes are made mainly from illustrations cut out from the reproductions of William Farquhar’s collection of South East Asian flora and fauna. Asian artists were asked to mimic Western artists’ botanical illustrations that they did to carrying degrees of success. The work alludes to the hidden histories of these colonials who visited and exploited the rich lands of the east and reflects that literally by hiding tiny “exotic” worlds with their ambiguous narratives within lavishly decorated boxes.
 

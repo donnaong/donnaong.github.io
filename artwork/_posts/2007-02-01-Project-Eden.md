@@ -25,6 +25,8 @@ Medium
 Exhibition
 : Raffles City, Singapore Arts Festival (2007), Singapore &#124; Singapore Season China (12 Oct - 10 Nov 2007), “Hybricity: Singapore”, Beijing, China &#124; City Link, Tickle Art, Singapore
 
+<!--excerpt_separator-->
+
 Ironically, though Singapore is known as the garden city – rows of beautiful trees and shrubs line every street In Singapore - 70% of the population live in HDB flats where the space constraints of sky-rise living do not allow for private gardens.   However, the desire for a garden does not abate despite the difficulty of realisation.  The Bonsai gardens, corridor/balcony gardens, and even the bottle gardens that many flat-dwellers own, may with a pinch of salt, be read as expression of this longing.
 
 Personally, my desire for an individual garden was further fanned by Singapore’s emphasis on the English language. Through the act of reading foreign storybooks, I became familiar with the culture, climate and landscape of a land not my own.  I longed to see and play within the storybook gardens of snowdrops, buttercups and apple trees

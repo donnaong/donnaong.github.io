@@ -27,4 +27,6 @@ Medium
 Exhibition
 : Art Stage (12-16 Jan 2011), “Remaking Art for the Everyday”, Singapore
 
+<!--excerpt_separator-->
+
 Inspired by Marco Polo’s account of Kublai Khan’s summer residence, the work uses heavily decorated ceramic teacups and vessels to create a luxuriant garden filled with a menagerie of tiny ceramic animals. Peranakan and antique Chinese porcelain is used to reference not just the nostalgia inspired by fading cultures, but also the impossibility of having anything last forever, whether it be empires, great cultures, ideas, trends or fads.  What remains are the relics of the age; the objects that embody the memories of the hopes that accompanied each dream and vision.

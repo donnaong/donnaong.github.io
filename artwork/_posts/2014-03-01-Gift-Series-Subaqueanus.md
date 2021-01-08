@@ -25,6 +25,7 @@ Medium
 Exhibition
 : Kunstlerhaus Bethanien (05 Jun – 08 Aug 2014), “Das Mechanische Corps &#124; Auf den Spuren von Jules Verne”, Berlin, Germany
 
+<!--excerpt_separator-->
 
 The work was made for the exhibition, Das Mechanische Corps, an exhibition inspired by the illustrations and stories of the science fiction writer, Jules Vernes.  Two ornamental boxes hide fantastical miniature worlds within its wooden interiors.  Each world is made out of images cut from scientific illustrations of coral and underwater plants.
 

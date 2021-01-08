@@ -32,6 +32,7 @@ permalink: /artwork/
           {%- for post in site.categories.artwork -%}
           <li>
             <a href="{{ post.url }}" ><img class="thumbnail" src="{{ post.thumbnail }}" /></a>
+            <div class="info">
             <h3>
               <a href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
@@ -39,6 +40,10 @@ permalink: /artwork/
             <span class="post-meta">| {{ post.date | date: date_format }}</span>
               </a>
             </h3>
+            <p>
+              {{ post.content | remove_first:post.excerpt | strip_html | truncatewords:50}}
+            </p>
+            </div>
             {%- if site.show_excerpts -%}
               {{ post.excerpt }}
             {%- endif -%}

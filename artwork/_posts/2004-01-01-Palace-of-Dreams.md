@@ -26,6 +26,8 @@ Medium
 Exhibition
 : The Arts House at the Old Parliament (3-15 Nov 2004), “Palace of Dreams”, Singapore
 
+<!--excerpt_separator-->
+
 The art installation features 2 works – 24 technical drawings of insect wings and a desk that has been transformed into a plane - that explore and communicate the desire to recover a lost childhood dream.  Susan Stewart in her book, “On Longing – Narratives of the Miniature, the Gigantic, the Souvenir, the Collection,” theorises that in seeking to evoke memories of childhood, the past is reconstructed from what presently exists.  Thus the objects in the exhibition though they resemble childhood objects –drawings and childhood games - cannot be mistaken as objects made by or for a child. They are reconstructions of remembered childhood craft activities - drawing, cutting, pasting, etc – a child’s game taken too far, played much too seriously by an adult
 
 The artwork explores the idea of faith and hope  - especially the kind that is unlikely to be rewarded.  The investigations work backward from what is commonly thought: that faith; hope in a specific result, spurns behavioural action, eventually leading towards the desired end.   In this work, an unattainable object/outcome (e.g. becoming a pilot) is first fixed, then a course of action, indicative of belief in the outcome, is performed with the eventual goal being the arousal of feelings of true faith and hope.

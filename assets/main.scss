@@ -571,15 +571,19 @@ table {
             li{
               float:left;
               width:100%;
-            }
+              border-bottom: 1px solid $lightgrey;
+              padding-top:0.5em;
            img{
               float:left;
               width:4em;
+              margin-top: 0.5em;
             }
+            .info{
+              margin-left: 5em;
             h3{ 
-              margin:0 0 0 2em;
-              line-height: 2.7;
-              padding-left: 1em;
+              margin: 0 0 0.2em 0;
+              line-height: 1;
+              font-size: 1.8em;
               a{
                 font-size: 0.6em;
                 color: $darkgrey;
@@ -587,10 +591,15 @@ table {
                   font-size: 0.9em;
                   color: $darkgrey;
                 }
-              }
+              }// end a
+            }// h3
+            p{
+              font-size:0.9em;
             }
-          }
-        }
+          }// end .info
+         }// end li
+        }// end ul
+       }// end .list
       } /* end #content2 List */
     } /* end section */
   } /* end tabs */
@@ -690,6 +699,15 @@ table {
 	 right: 0;
   }
   #pagination{
+    border-top: 1px solid $lightgrey;
+    padding-top: 3em;
+    h6{
+      text-transform: uppercase;
+      margin-bottom: 0.5em;
+    }
+    .right{
+      text-align: right;
+    }
   }
 
     @include media-query($on-laptop) {

@@ -24,6 +24,7 @@ Exhibition
 : Supreme Court, (4 Sep -12 Nov 2006), “Belief”, Singapore Biennale 2006, Singapore &#124;
 Eslite Gallery (7 May - 5 June 2011), “Donna Ong, Jane Lee, Wilson Chieh”, Taipei, Taiwan
    
+<!--excerpt_separator-->
 
 Secret, interiors: Chrysalis (19-22) is a 4-room installation installed in Singapore’s former Supreme Court.  Situated in the chambers of the judges, they explore the secret lives and fantasies of 4 judges – the private self behind the implacable public façade. Grand projects are dreamt up and an attempt to realise these visions undertaken; using whatever comes to hand, be it a broom or a bucket.
 

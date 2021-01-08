@@ -3,6 +3,7 @@ layout: post
 title:  "The Forest Speaks Back"
 date:   2014-02-01
 thumbnail: "/assets/images/artwork/thumbnail/The-Forest-Speaks-Back-2014.jpg"
+
 ---
 
 ![My image Name](/assets/images/artwork/The-Forest-Speaks-Back_01.jpg)
@@ -23,6 +24,7 @@ Medium
 Exhibition
 : Kunstlerhaus Bethanien (03 - 30 Mar 2014),  "The Forest Speaks Back" (Solo), Berlin, Germany &#124; Museum of Moscow, Moscow Biennale for Young Art 2014 (26 Jun – 10 Aug 2014), "A Time For Dreams", Moscow, Russia
 
+<!--excerpt_separator-->
 
 This is a story about the tropical forest.   It is a story of the men  and women  who ventured from colder climates to explore, conquer and exploit the abundant resources found in these fertile new lands.  It tells of how they grew to love, and hate, this place, and how their narratives, illustrations and perspectives founded the contrary views we have of the tropics today – warm and abundant, but ridden with disease and decay; fertile and lush, yet overpowering and out of control; full of exotic species that are beautiful but deadly, and natives who are friendly and sensual, yet lazy and morally lax.  These assumptions also extend to the expectations surrounding the idea of a tropical aesthetic with its ubiquitous palm-trees, luxuriant forests and exotic wildlife.
 

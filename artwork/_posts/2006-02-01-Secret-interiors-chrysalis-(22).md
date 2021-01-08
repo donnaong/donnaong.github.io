@@ -24,6 +24,8 @@ Exhibition
 Kwandu Art Museum (2008), Kwandu Biennale, “I Have a Dream”, Taipei, Taiwan &#124;
 Institute of Contemporary Arts Singapore (06 Nov 2014 – Feb 01, 2015), “Modern Love”, Lasalle College, Singapore
 
+<!--excerpt_separator-->
+
 Secret, interiors: Chrysalis (19-22) is a 4-room installation installed in Singapore’s former Supreme Court.  Situated in the chambers of the judges, they explore the secret lives and fantasies of 4 judges – the private self behind the implacable public façade. Grand projects are dreamt up and an attempt to realise these visions undertaken; using whatever comes to hand, be it a broom or a bucket.
 
 Each project is chosen from a game or dream from childhood, a search to recapture a remembered past with the tools, skills and knowledge of the adult one has become. In this room, the adult occupant plays a child’s game (playing with dolls) and takes the innocent desire of a child for her dolls to come alive, far too seriously, resulting in the following elaborate and obsessive installation.

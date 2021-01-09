@@ -22,4 +22,6 @@ Medium
 Exhibition
 : Eslite Gallery (7 May – 5 June, 2011), “Donna Ong, Jane Lee, Wilson Chieh”, Taipei, Taiwan
 
+<!--excerpt_separator-->
+
 This series of “exercises” investigate and illuminate the strategies of landscape.  It is an attempt to explore and understand the patterns and devices that make landscapes allegorical and powerful.  The work uses ballpoint pen to draw on matt film and displayed within a block of clear acrylic.  Each drawing is developed from doodles and upon refining and defining random shapes and lines, different scenes begin to emerge that the viewer interprets as familiar archetypal landscapes.

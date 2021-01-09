@@ -32,4 +32,6 @@ Medium: Mixed media installation
 
 Exhibition Singapore Management University (Jan 19 – 29 Feb), “Non Sense” SMU Arts Festival, “Always Here But Not Always Present: Art in a Senseless World”, Singapore &#124; JOYCE boutique (17 Apr – 20 May 2009), “Live Harder, Dream Bigger, Love Deeper”, Hong Kong &#124; Singapore Art Museum (14 Jan – 25 Apr 2012), “The Collectors Show: Chimera”, Singapore
 
+<!--excerpt_separator-->
+
 The title refers to a passage in the bible where Man was created on the sixth day in the story of creation.  In this architectural representation of a woman’s psychological space, white delicate furniture is set poignantly against the vastness and rough concrete of an unfinished room.  Metaphorically and symbolically, the objects and furniture weave together symbol and meaning to represent and explore the idea of an individual’s potential.  There is present in the work, the desire and ambition to fulfill one’s potential and ironically, the accompanying fear of failure and stagnation.  Tiny white wire spiders climb and nurse various egg-like forms (Christmas ornaments, pearls, pins, beads) within sparkling crystal containers inside and atop the furniture.  Some of the “eggs” respond to the attention given and sprout tiny green leaves.  Others remain stagnant, static and unresponsive to the spider’s tender ministrations.

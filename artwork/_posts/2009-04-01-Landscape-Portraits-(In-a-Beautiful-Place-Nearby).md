@@ -20,5 +20,6 @@ Medium
 Exhibition
 : Singapore Art Museum (14 Aug - 6 Nov 2009), “President’s Young Talent”, Singapore
 
+<!--excerpt_separator-->
 
 A glass city stretches horizontally into the distance.  Clear turrets and towers of glass reach vertically upwards – amber light refracting through their faceted surfaces creating amorphous patterns that shift and change as the lights dim and brighten.  The illusion of an extraordinary glass city is created with through the use of ordinary everyday material – jars, cups, bowls and decanters and other articulated glass objects.

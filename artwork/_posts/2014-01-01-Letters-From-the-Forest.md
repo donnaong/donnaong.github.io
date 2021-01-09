@@ -22,4 +22,6 @@ Medium
 Exhibition
 : Primo Marella Gallery (Oct 23 – Nov 27), “Bright S’pore(s)”, Milan, Italy
 
+<!--excerpt_separator-->
+
 This is a story about the tropical forest. It is a story of the men and women who ventured from colder climates to explore, conquer and exploit the abundant resources found in these fertile new lands. It tells of how they grew to love, and hate, this place, and how their narratives, illustrations and perspectives founded the contrary views we have of the tropics today – warm and abundant, but ridden with disease and decay; fertile and lush, yet overpowering and out of control; full of exotic species that are beautiful but deadly, and natives who are friendly and sensual, yet lazy and morally lax. These assumptions also extend to the expectations surrounding the idea of a tropical aesthetic with its ubiquitous palm-trees, luxuriant forests and exotic wildlife.

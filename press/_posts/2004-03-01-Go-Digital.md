@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Moscow Biennale"
-date:   2007-01-01
-thumbnail: "/assets/images/press/thumbnail/2007_2-Moscow-Biennale.jpg"
+title:  "Go Digital"
+date:   2004-10-01
+thumbnail: "/assets/images/press/thumbnail/2004_Go-Digital.jpg"
 ---
 
-![My image Name](/assets/images/press/2007_2-Moscow-Biennale-4.jpg)
-![My image Name](/assets/images/press/2007_2-Moscow-Biennale-1.jpg)
-![My image Name](/assets/images/press/2007_2-Moscow-Biennale-2.jpg)
-![My image Name](/assets/images/press/2007_2-Moscow-Biennale-3.jpg)
+![My image Name](/assets/images/press/2004_Go-Digital_Oct-Nov-1.jpg)
+![My image Name](/assets/images/press/2004_Go-Digital_Oct-Nov-2.jpg)

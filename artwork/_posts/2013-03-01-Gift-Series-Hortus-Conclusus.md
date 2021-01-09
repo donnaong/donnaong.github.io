@@ -20,6 +20,8 @@ Medium
 Exhibition
 : Art Stage Singapore (Jan 2014), Singapore
 
+<!--excerpt_separator-->
+
 This series of works tries to imagine and recreate the gifts colonial traders and explorers sent home to their family and friends.  These 18th and 19th century men and women saw things in their travels that they must have found hard to communicate to their colleagues, friends and family living in an entirely different culture and climate.  The little dioramas inside these gift boxes attempt to depict sights, memories and feelings of homesickness and loneliness, these travellers must have experienced and felt.  In this series, the scenes are made mainly from illustrations cut out from the reproductions of antique scientific illustrations of flora and images of women from art history reproductions.  They create a tiny Western garden within which, a tiny woman resides resplendent amongst the flowers.
 
 The work is a series of ornamental boxes of various sizes and shapes. Open the boxes, and nestled within their wooden cavities lie wondrous miniature worlds – landscapes of palm trees and dark figures, overgrown gardens with “exotic” animals peeking through fronds, trees with strange birds perched amongst riotous coloured fruits and flowers…

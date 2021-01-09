@@ -27,7 +27,7 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    800px !default;
 
-$on-palm:          600px !default;
+$on-palm:          800px !default;
 $on-laptop:        800px !default;
 
 // Use media queries like this:
@@ -123,21 +123,8 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
-  animation: blur 4s;
 }
 
-@keyframes blur {
-  0% {
-    opacity:0;
-    filter: blur(20px);
-  }
-  30%{
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
 
 
 /**
@@ -208,14 +195,16 @@ a {
  */
 blockquote {
   color: $grey;
-  border-left: 4px solid $lightgrey;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  border-top:1px solid $lightgrey;
+  border-bottom:1px solid $lightgrey;
+  padding:1em 0;
+  font-size: 0.9em;
+  line-height: 1.3;
   font-style: italic;
-
-  > :last-child {
-    margin-bottom: 0;
+  text-align: right;
+  margin:3em 0;
+  p{
+    margin-bottom:0;
   }
 }
 
@@ -247,6 +236,20 @@ pre {
   }
 }
 
+/**
+* Background
+*/
+body:before {
+    background: url("/assets/images/artwork/In-A-Beautiful-Place-Far-Away_02.jpg") (center / cover);
+    content: '';
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    opacity: 0.07;
+}
 
 
 /**
@@ -257,6 +260,7 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
+  animation: blur 3s;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
@@ -267,6 +271,18 @@ pre {
   }
 }
 
+@keyframes blur {
+  0% {
+    opacity:0;
+    filter: blur(20px);
+  }
+  30%{
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
 
 
 /**
@@ -344,9 +360,13 @@ table {
  */
 .site-header {
   float:left;
-  width:12em;
+  width: 12em;
+  @include media-query($on-laptop) {
+    width:100%;
+  }
   // Positioning context for the mobile navigation icon
   //position: relative;
+
   &:after{
 	 width:12em;
   }
@@ -361,6 +381,9 @@ table {
 	top: 0;
 	bottom: 0;
 	z-index: -1;
+  @include media-query($on-laptop) {
+    border-right: none;
+  }
 }
 
 
@@ -391,6 +414,9 @@ table {
   line-height: $base-line-height * $base-font-size * 2.25;
   text-transform: uppercase;
   margin-top: 5em;
+  @include media-query($on-laptop) {
+    margin-top: 1em;
+  }
   .nav-trigger {
       display: none;
   }
@@ -412,34 +438,36 @@ table {
   }
 
   @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $lightgrey;
-    border-radius: 5px;
+    //position: absolute;
+    //top: -90px;
+    //right: $spacing-unit / 2;
+    //background-color: $background-color;
     text-align: right;
 
     label[for="nav-trigger"] {
       display: block;
-      float: right;
-      width: 36px;
-      height: 36px;
-      z-index: 2;
+      //float: right;
+      //width: 36px;
+      //height: 36px;
+      //z-index: 2;
       cursor: pointer;
     }
 
     .menu-icon {
       display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
+      //float: right;
+      //width: 36px;
+      //height: 26px;
+      //line-height: 0;
+      //padding-top: 10px;
       text-align: center;
-
-      > svg {
-        fill: $darkgrey;
+      border-top: 1px dotted $lightgrey;
+      border-bottom: 1px dotted $lightgrey;
+      //> svg {
+      //  fill: $darkgrey;
+      //}
+      &:hover{
+        color: lighten($brand-color, 10%);
       }
     }
 
@@ -451,6 +479,8 @@ table {
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
+      animation: blur 1.5s;
+      text-align: center;
     }
 
     .page-link {
@@ -460,79 +490,119 @@ table {
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
+      margin-left: 0;
     }
   }
 }
 
-/**
- * Grid
- */
-.grid{
-  width:100%;
-  float:left;
-  margin-bottom: 3em;
-  ul{
-    margin: 0 1px 0 -1px;
-    line-height: 0;
-    display: block;
-    padding: 0;
-    li{
-      float: left;
-      width: 16.666666%;
-      list-style-type: none;
-      position: relative;
-      background:$lightgrey;
-    img{
-      display: block; 
-      width:100%;
-      border-left:1px solid white;
-      border-bottom:1px solid white;
-      margin:0;
-      &:hover{
-        opacity: 0.7;
-      }
-      }
+/*tabs*/
+  .tabs {
+    margin: 0 auto;
+    position: relative;
+    input, section {
+      clear: both;
+      display: none;
     }
-  }
-}
-
-/**
- * List
- */
- .list-label{
-  float:right;
-  margin-bottom: 0;
- }
-.list{
-  width:100%;
-  float:left;
-  ul{
-    list-style-type: none;
-    margin-left:0;
-    li{
+    label {
+      display: block;
+      float: right;
+      padding: 0 0.5em;
+      cursor: pointer;
+      text-decoration: none;
+      text-align: center;
+      color:#aaa;
+      margin-bottom:1em;
+      &:first-of-type{
+        border-left:1px solid $lightgrey;
+        padding-right:0;
+      }
 
     }
-   img{
-      float:left;
-      width:1.2em;
+    #tab1:checked ~ #content1,
+    #tab2:checked ~ #content2{
+      display: block;
     }
-    h3{ 
-      margin:0 0 0.5em 1em;
-      line-height: 0.7;
-      a{
-        font-size: 0.6em;
-        color: $darkgrey;
-        span{
-          font-size: 0.9em;
-          color: $darkgrey;
+    [id^="tab"]:checked + label {
+      color:$brand-color;
+    }
+    section{
+      &#content1{
+        /* Grid*/
+        .grid{
+          width:100%;
+          float:left;
+          margin-bottom: 3em;
+          ul{
+            margin: 0 1px 0 -1px;
+            line-height: 0;
+            display: block;
+            padding: 0;
+            li{
+              float: left;
+              width: 16.666666%;
+              list-style-type: none;
+              position: relative;
+              @include media-query($on-laptop) {
+                width: 33.33333%;
+              }
+
+            img{
+              display: block; 
+              width:100%;
+              border-left:1px solid white;
+              border-bottom:1px solid white;
+              margin:0;
+              &:hover{
+                opacity: 0.7;
+              }
+              }
+            }
+          }
         }
-      }
-    }
-
-  }
- 
-}
+      } /* end #content1 Grid */
+      &#content2{
+        /* List */
+        .list{
+          width:100%;
+          float:left;
+          ul{
+            list-style-type: none;
+            margin-left:0;
+            li{
+              float:left;
+              width:100%;
+              border-bottom: 1px solid $lightgrey;
+              padding-top:0.5em;
+           img{
+              float:left;
+              width:4em;
+              margin-top: 0.5em;
+            }
+            .info{
+              margin-left: 5em;
+            h3{ 
+              margin: 0 0 0.2em 0;
+              line-height: 1;
+              font-size: 1.8em;
+              a{
+                font-size: 0.6em;
+                color: $darkgrey;
+                span{
+                  font-size: 0.9em;
+                  color: $darkgrey;
+                }
+              }// end a
+            }// h3
+            p{
+              font-size:0.9em;
+            }
+          }// end .info
+         }// end li
+        }// end ul
+       }// end .list
+      } /* end #content2 List */
+    } /* end section */
+  } /* end tabs */
 
 
 /**
@@ -540,7 +610,7 @@ table {
  */
 .site-footer {
   border-top: 1px solid $lightgrey;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit;
   width:100%;
   float: left;
   font-size: 0.9em;
@@ -621,11 +691,29 @@ table {
   //flex: 1;
   float: left;
   width:70%;
+  @include media-query($on-laptop) {
+    padding:0;
+  }
+
   &:after{
 	 right: 0;
   }
   #pagination{
+    border-top: 1px solid $lightgrey;
+    padding-top: 3em;
+    h6{
+      text-transform: uppercase;
+      margin-bottom: 0.5em;
+    }
+    .right{
+      text-align: right;
+    }
   }
+
+    @include media-query($on-laptop) {
+    width:100%;
+  }
+
 }
 
 
@@ -687,15 +775,18 @@ table {
   color: $darkgrey;
 
 
-  @include media-query($on-laptop) {
+  /*@include media-query($on-laptop) {
     @include relative-font-size(2.25);
-  }
+  }*/
 
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
 
+  h1{
+    @include relative-font-size(1.25);
+  }
   h2 {
     @include relative-font-size(2);
 
@@ -727,14 +818,14 @@ table {
     border-left: 4px solid $lightgrey;
     padding: 1.2em 0 0.1em 0.5em;
     dt{
-      font-size: 0.5em;
+      font-size: 0.6em;
       text-transform: uppercase;
       font-weight: bold;
       line-height: 1;
     }
     dd{
       margin-bottom:1em;
-      font-size: 0.8em;
+      font-size: 0.9em;
       line-height: 1.2;
     }
   }

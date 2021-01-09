@@ -33,6 +33,8 @@ Medium
 Exhibition
 : Tung O Beach, Lamma Island, AROUND Sound Art Festival (30 Apr – 30 May 2009), “Soundpocket”, Hong Kong
 
+<!--excerpt_separator-->
+
 Landscape Portraits  (Rooms I-IV) is a four-room installation constructed in a dilapidated wooden building on Lamma Island, Hong Kong.  Each room is a snap shot of the island both in terms of the island in its history as well as focusing on a specific material particular to the island.  Together, the rooms give a visual  metaphorical representation of the island of historically as well as materially.
 
 Room I represents the island in its natural untouched state.  The material used here is lallang (a tall grass that grows abundantly all over the island).  The grass is hung upside down, its fronds brushing the shoulders and backs of the visitors as they enter the room.  A voice whispers in a different language,  getting higher and higher until it becomes a bird cry disappearing into the distance.

@@ -20,8 +20,9 @@ Medium
 Exhibition
 : Supreme Court, (4 Sep -12 Nov 2006), “Belief”, Singapore Biennale 2006, Singapore &#124;
 2nd Moscow Biennale of Contemporary Art Moscow (1 Mar – 1 Apr 2007), “Footnotes on Geopolitics, Market and Amnesia”, Russia &#124;
-Eslite Gallery (28 Jun – 27 Jul 2008), “Coffee, Cigarettes and Phad Thai”, Taipei, Taiwan
- 
+Eslite Gallery (28 Jun – 27 Jul 2008), “Coffee, Cigarettes and Phad Thai”, Taipei, Taiwan 
+
+<!--excerpt_separator-->
 
 Secret, interiors: Chrysalis (19-22) is a 4-room installation installed in Singapore’s former Supreme Court.  Situated in the chambers of the judges, they explore the secret lives and fantasies of 4 judges – the private self behind the implacable public façade. Grand projects are dreamt up and an attempt to realise these visions undertaken; using whatever comes to hand, be it a broom or a bucket.
 

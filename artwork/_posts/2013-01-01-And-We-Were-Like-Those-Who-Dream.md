@@ -34,6 +34,8 @@ Medium
 Exhibition
 : Primo Marella Gallery (Oct 23 – Nov 27), “Bright S’pore(s)”, Milan, Italy
 
+<!--excerpt_separator-->
+
 This is a series of seven cabinets that explore the theme of hope and what it means to wait through utilizing the associations and symbolism found within the Annunciation paintings as well as the landscape of the archetypal garden.   In between delicately cut-out illustrations of plants and flowers, sit and stand “tiny” Virgin Mary(s)/ Madonna(s) of varying ages and demeanors - their differing expressions illustrating and illuminating the phases of waiting and their accompanying emotional response.
 
 Each woman is separated from her accompanying angel, and resides in her own garden on the shelf immediately below or above the angel.  The angel’s presence represents the miraculous or the answer to a promise.  The use and interplay of archetypal imagery with traditional symbols/ imagery allow new narratives and meanings to emerge and the story of hope to be explored, retold and illuminated in a fresh and exciting way.

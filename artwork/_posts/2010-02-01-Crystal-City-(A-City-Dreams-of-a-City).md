@@ -23,4 +23,6 @@ Medium
 Exhibition
 :  National Museum of Singapore (18-19 &amp; 25-26 Jul 2009), Night Festival 2009, Singapore
 
+<!--excerpt_separator-->
+
 A glass city stretches horizontally into the distance.  Clear turrets and towers of glass reach vertically upwards – amber light refracting through their faceted surfaces creating amorphous patterns that shift and change as the lights dim and brighten.  The illusion of an extraordinary glass city is created with through the use of ordinary everyday material – jars, cups, bowls and decanters and other articulated glass objects.

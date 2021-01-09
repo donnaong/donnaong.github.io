@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moscow Biennale"
+title:  "2 Moscow Biennale"
 date:   2007-01-01
 thumbnail: "/assets/images/press/thumbnail/2007_2-Moscow-Biennale.jpg"
 ---

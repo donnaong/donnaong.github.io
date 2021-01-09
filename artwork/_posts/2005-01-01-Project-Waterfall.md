@@ -27,4 +27,6 @@ Medium
 Exhibition
 : City Link (2005), Singapore Art Show, Tickle Art, Singapore
 
+<!--excerpt_separator-->
+
 “Project: Waterfall” was commissioned for a display window situated within a busy underground shopping mall.   In order to blend into this unique environment, a conscious effort was made to echo the visual aesthetics of store display –discreet white shelves, clear or white containers and simple metal stands.  Yet, despite the ubiquitous and pragmatic approach aesthetically, the artwork’s goals are far from the practical as it attempts, rather ambitiously, to transform a set of ordinary bookshelves into a waterfall.  In doing so, it becomes a vehicle for fantasy and desire, a place for the imagination to inhabit and take flight from.

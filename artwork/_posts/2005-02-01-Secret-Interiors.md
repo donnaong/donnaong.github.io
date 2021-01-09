@@ -25,4 +25,6 @@ Medium
 Exhibition
 : Fort Canning (2005), Sonic Festival, Singapore &#124; Grey Projects (4 Apr – 4 May 2008), “Gloaming”, Singapore
 
+<!--excerpt_separator-->
+
 This black and white film features light streaming through various rectangular openings.  The light defines and animates the spaces, describing them as well as giving them atmosphere.  As the light wanes and moves, it also describes the openings from which it is entering from, and allows them to move from the architectural and three dimensional, to something more abstract and pictorial.

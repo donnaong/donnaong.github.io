@@ -19,4 +19,6 @@ Medium
 Exhibition
 : Arts House (2005), Singapore
 
+<!--excerpt_separator-->
+
 Inspired by the myth of Pandora, this series of photographs attempt to give a physical representation for the contents of Pandora’s box.   The scenes were constructed using  creatures specially created for this project.

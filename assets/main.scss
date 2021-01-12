@@ -91,7 +91,10 @@ body {
   margin-top: 3em;
   //display: flex;
   //min-height: 100vh;
-  //flex-direction: column;
+  //flex-direction: column;  
+  @include media-query($on-laptop) {
+    margin-top: 1em;
+  }
 }
 
 
@@ -438,34 +441,20 @@ table {
   }
 
   @include media-query($on-palm) {
-    //position: absolute;
-    //top: -90px;
-    //right: $spacing-unit / 2;
-    //background-color: $background-color;
     text-align: right;
 
     label[for="nav-trigger"] {
       display: block;
-      //float: right;
-      //width: 36px;
-      //height: 36px;
-      //z-index: 2;
       cursor: pointer;
     }
 
     .menu-icon {
       display: block;
-      //float: right;
-      //width: 36px;
-      //height: 26px;
-      //line-height: 0;
-      //padding-top: 10px;
       text-align: center;
       border-top: 1px dotted $lightgrey;
       border-bottom: 1px dotted $lightgrey;
-      //> svg {
-      //  fill: $darkgrey;
-      //}
+      line-height: 2;
+      margin-bottom: 1em;
       &:hover{
         color: lighten($brand-color, 10%);
       }
@@ -692,7 +681,7 @@ table {
   float: left;
   width:70%;
   @include media-query($on-laptop) {
-    padding:0;
+    padding:0 0 $spacing-unit 0;
   }
 
   &:after{
@@ -828,6 +817,9 @@ table {
       font-size: 0.9em;
       line-height: 1.2;
     }
+  }
+  p{
+    text-align:justify;
   }
 }
 

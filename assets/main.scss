@@ -803,6 +803,7 @@ table {
 @include media-query($on-palm) {
   .post-header {
     margin: 0 0 1em 0;
+  }
 }
 .post-title {
   @include relative-font-size(1.1);

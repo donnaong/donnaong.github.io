@@ -242,7 +242,11 @@ pre {
 /**
 * Preloader 
 */
-.js div#preloader {
+/* This only works with JavaScript, 
+if it's not present, don't show loader */
+.no-js #preloader { display: none;  }
+.js #preloader { display: block; position: absolute; left: 100px; top: 0; }
+#preloader {
   position: fixed;
   left: 0;
   top: 0;
@@ -282,7 +286,6 @@ pre {
     filter: blur(1px);
   }
 }
-
 
 
 /**

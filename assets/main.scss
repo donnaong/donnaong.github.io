@@ -272,7 +272,7 @@ if it's not present, don't show loader */
     background-repeat: repeat;
     background-position: center;
     background-size: cover;
-    animation: fade 3s ease-in-out infinite;
+    animation: fade 6s ease-in-out infinite;
   }
 }
 
@@ -286,8 +286,8 @@ if it's not present, don't show loader */
     filter: none;
   }
   100% {
-    opacity:1;
-    filter: blur(2px);
+    opacity:0.1;
+    filter: none;
   }
 }
 
@@ -301,7 +301,7 @@ if it's not present, don't show loader */
     opacity:1;
   }
   50% {
-    opacity: 0.6;
+    opacity: 1;
   }
   100% {
     opacity: 0;

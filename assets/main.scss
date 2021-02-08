@@ -272,17 +272,17 @@ if it's not present, don't show loader */
     background-repeat: repeat;
     background-position: center;
     background-size: cover;
-    animation: fade 6s ease-in-out infinite;
+    animation: fadeIn 6s ease-in-out infinite;
   }
 }
 
-@keyframes fade {
+@keyframes fadeIn {
   0% {
-    opacity:1;
+    opacity:0.1;
     filter: blur(5px);
   }
   100% {
-    opacity:1;
+    opacity:0.8;
     filter: none;
   }
 }
@@ -297,7 +297,7 @@ if it's not present, don't show loader */
     opacity:1;
   }
   50% {
-    opacity: 1;
+    opacity: 0.5;
   }
   100% {
     opacity: 0;
@@ -330,7 +330,7 @@ body:before {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
-  animation: blur 3s;
+  animation: blur 5s;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
@@ -344,7 +344,7 @@ body:before {
 @keyframes blur {
   0% {
     opacity:0;
-    filter: blur(20px);
+    filter: blur(10px);
   }
   30%{
     opacity:0;
@@ -423,6 +423,7 @@ table {
  float: left;
  width: 100%;
  z-index: 99; /* needed for Safari 7 */
+ animation: blur 5s;
 }
 
 /**

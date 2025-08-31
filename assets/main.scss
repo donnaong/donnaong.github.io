@@ -546,6 +546,10 @@ table {
       }
       margin-left: 0;
     }
+    .right, .left{
+      float:none;
+      text-align: center;
+    }
   }
 }
 
